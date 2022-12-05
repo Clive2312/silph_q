@@ -1,0 +1,17 @@
+VT t_2_a 0
+VT t_2_y 0.036
+CA t_2_a t_2_y
+VT t_1_a 0.1
+VT t_1_y 0.11
+CA t_1_a t_1_y
+VT t_0_a 0.1
+VT t_0_y 0.11
+CA t_0_a t_0_y
+VC c_1_a2y 0.1306
+VC c_1_y2a 0.00265
+VC c_0_a2y 0.1306
+VC c_0_y2a 0.00265
+CC c_1_a2y t_1_a t_2_y
+CC c_1_y2a t_1_y t_2_a
+CC c_0_a2y t_0_a t_2_y
+CC c_0_y2a t_0_y t_2_a

@@ -1,0 +1,36 @@
+VT t_2_a 0
+VT t_2_b 0.7639492120000001
+VT t_2_y 0.036
+CA t_2_a t_2_b t_2_y
+VT t_1_a 0.1
+VT t_1_b 0.12
+VT t_1_y 0.11
+CA t_1_a t_1_b t_1_y
+VT t_0_a 0.1
+VT t_0_b 0.12
+VT t_0_y 0.11
+CA t_0_a t_0_b t_0_y
+VC c_1_a2b 0.14496
+VC c_1_a2y 0.1306
+VC c_1_b2a 0.01225
+VC c_1_b2y 0.01922
+VC c_1_y2a 0.00265
+VC c_1_y2b 0.008
+VC c_0_a2b 0.14496
+VC c_0_a2y 0.1306
+VC c_0_b2a 0.01225
+VC c_0_b2y 0.01922
+VC c_0_y2a 0.00265
+VC c_0_y2b 0.008
+CC c_1_a2b t_1_a t_2_b
+CC c_1_a2y t_1_a t_2_y
+CC c_1_b2a t_1_b t_2_a
+CC c_1_b2y t_1_b t_2_y
+CC c_1_y2a t_1_y t_2_a
+CC c_1_y2b t_1_y t_2_b
+CC c_0_a2b t_0_a t_2_b
+CC c_0_a2y t_0_a t_2_y
+CC c_0_b2a t_0_b t_2_a
+CC c_0_b2y t_0_b t_2_y
+CC c_0_y2a t_0_y t_2_a
+CC c_0_y2b t_0_y t_2_b

@@ -1,0 +1,79 @@
+VT t_2_a 0.1
+VT t_2_b 0.12
+VT t_2_y 0.11
+CA t_2_a t_2_b t_2_y
+VT t_1_b 72.248905906
+VT t_1_y 1.227
+CA t_1_b t_1_y
+VT t_3_a 0.1
+VT t_3_b 0.12
+VT t_3_y 0.11
+CA t_3_a t_3_b t_3_y
+VT t_4_a 0
+VT t_4_b 0.7639492120000001
+VT t_4_y 0.036
+CA t_4_a t_4_b t_4_y
+VT t_0_a 0
+VT t_0_b 0.7639492120000001
+VT t_0_y 0.036
+CA t_0_a t_0_b t_0_y
+VC c_1_b2a 0.01225
+VC c_1_b2y 0.01922
+VC c_1_y2a 0.00265
+VC c_1_y2b 0.008
+VC c_4_a2b 0.14496
+VC c_4_a2y 0.1306
+VC c_4_b2a 0.01225
+VC c_4_b2y 0.01922
+VC c_4_y2a 0.00265
+VC c_4_y2b 0.008
+VC c_2_a2b 0.14496
+VC c_2_a2y 0.1306
+VC c_2_b2a 0.01225
+VC c_2_b2y 0.01922
+VC c_2_y2a 0.00265
+VC c_2_y2b 0.008
+VC c_3_a2b 0.14496
+VC c_3_a2y 0.1306
+VC c_3_b2y 0.01922
+VC c_3_y2b 0.008
+VC c_3_a2b 0.14496
+VC c_3_a2y 0.1306
+VC c_3_b2a 0.01225
+VC c_3_b2y 0.01922
+VC c_3_y2a 0.00265
+VC c_3_y2b 0.008
+VC c_2_a2b 0.14496
+VC c_2_a2y 0.1306
+VC c_2_b2y 0.01922
+VC c_2_y2b 0.008
+CC c_1_b2a t_1_b t_0_a
+CC c_1_b2y t_1_b t_0_y
+CC c_1_y2a t_1_y t_0_a
+CC c_1_y2b t_1_y t_0_b
+CC c_4_a2b t_4_a t_0_b
+CC c_4_a2y t_4_a t_0_y
+CC c_4_b2a t_4_b t_0_a
+CC c_4_b2y t_4_b t_0_y
+CC c_4_y2a t_4_y t_0_a
+CC c_4_y2b t_4_y t_0_b
+CC c_3_a2b t_3_a t_1_b
+CC c_3_a2y t_3_a t_1_y
+CC c_3_b2y t_3_b t_1_y
+CC c_3_y2b t_3_y t_1_b
+CC c_3_a2b t_3_a t_4_b
+CC c_3_a2y t_3_a t_4_y
+CC c_3_b2a t_3_b t_4_a
+CC c_3_b2y t_3_b t_4_y
+CC c_3_y2a t_3_y t_4_a
+CC c_3_y2b t_3_y t_4_b
+CC c_2_a2b t_2_a t_4_b
+CC c_2_a2y t_2_a t_4_y
+CC c_2_b2a t_2_b t_4_a
+CC c_2_b2y t_2_b t_4_y
+CC c_2_y2a t_2_y t_4_a
+CC c_2_y2b t_2_y t_4_b
+CC c_2_a2b t_2_a t_1_b
+CC c_2_a2y t_2_a t_1_y
+CC c_2_b2y t_2_b t_1_y
+CC c_2_y2b t_2_y t_1_b
